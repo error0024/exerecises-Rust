@@ -1,0 +1,11 @@
+[package]
+name = "deps"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1"
+anyhow = "1.0.82"
+
+[dev-dependencies]
+static_assertions = "1.1.0"

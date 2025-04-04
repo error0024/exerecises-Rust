@@ -1,0 +1,9 @@
+# Ignore Windows executable files
+*.exe
+
+# Ignore Windows debug symbols
+*.pdb
+
+# Rust-specific ignores (recommended additions)
+/target/
+**/*.rs.bk
